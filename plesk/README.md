@@ -25,7 +25,7 @@ This Python script automates the process of adding and removing QUIC.cloud IPs t
 
 1. Download the script using the following command:
    ```bash
-   wget https://raw.githubusercontent.com/QuicCloud/scripts/main/plesk/plesk_fail2ban.py
+   wget https://raw.githubusercontent.com/ishan-ls-bz/Scripts/main/plesk/plesk_fail2ban.py
    ```
 
 2. Make the script executable:

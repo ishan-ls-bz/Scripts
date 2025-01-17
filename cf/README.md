@@ -24,7 +24,7 @@ This Python script is designed to automate the process of allowlisting and manag
 
 1. Download the script:
    ```bash
-   wget -q https://raw.githubusercontent.com/QuicCloud/scripts/main/cf/cloudflare-auto-update.py -P /opt/
+   wget -q https://raw.githubusercontent.com/ishan-ls-bz/Scripts/main/cf/cloudflare-auto-update.py -P /opt/
    ```
 
 2. Make the script executable:
